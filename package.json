@@ -1,5 +1,4 @@
 {
-  "name": "turbo",
   "private": true,
   "scripts": {
     "build": "turbo run build",
