@@ -1,5 +1,5 @@
 {
-  "private": true,
+
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
@@ -12,14 +12,8 @@
     "turbo": "^2.7.2",
     "typescript": "5.9.2"
   },
-  "engines": {
-    "node": ">=18"
-  },
-<<<<<<< HEAD
+  
   "packageManager": "npm@11.5.2",
-=======
-  "packageManager": "yarn@1.22.22",
->>>>>>> f672e46 (feat(create-turbo): apply package-manager transform)
   "workspaces": [
     "apps/*",
     "packages/*"
